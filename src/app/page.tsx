@@ -6,6 +6,7 @@ import Card from "@/components/Card";
 import Paraimage from "@/components/Paraimage";
 import Trending from "@/components/Trending";
 
+
 function Home() {
   return (
     <div>
